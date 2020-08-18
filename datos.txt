@@ -1,0 +1,3 @@
+https://es.stackoverflow.com/questions/303975/como-guardar-el-id-del-usuario-logueado-en-laravel
+
+https://laracasts.com/discuss/channels/general-discussion/send-notifications-to-admin?page=0
